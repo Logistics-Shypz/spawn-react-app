@@ -1,0 +1,12 @@
+html,
+body,
+
+.app {
+height: 100vh;
+background: rgb(247, 243, 243);
+padding: 1em;
+}
+
+.spawn {
+    color: blue
+}
