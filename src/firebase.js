@@ -5,12 +5,12 @@ import 'firebase/database';
 import 'firebase/storage';
 
 var config = {
-    apiKey: "AIzaSyAXOCK_ejo6-BjXqlawQc601JpashSnERc",
-    authDomain: "spawn-slack-chat-app.firebaseapp.com",
-    databaseURL: "https://spawn-slack-chat-app.firebaseio.com",
-    projectId: "spawn-slack-chat-app",
-    storageBucket: "spawn-slack-chat-app.appspot.com",
-    messagingSenderId: "439091282014"
+    apiKey: "",
+    authDomain: "",
+    databaseURL: "",
+    projectId: "",
+    storageBucket: "",
+    messagingSenderId: ""
   };
   firebase.initializeApp(config);
 
